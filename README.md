@@ -57,8 +57,8 @@ Building performant, accessible, and scalable digital experiences across healthc
 
 - 🌐 Website: [andersonlakwan.xyz](https://andersonlakwan.xyz)  
 - 📧 Email: [contact@andersonlakwan.xyz](mailto:contact@andersonlakwan.xyz)  
-- 🧑‍💼 LinkedIn: [linkedin.com/in/YOUR-LINK](https://linkedin.com/in/lakwan-a-92ab4a356/)  
-- 🐙 GitHub: [github.com/YOUR-USERNAME](https://github.com/superMiracle)  
+- 🧑‍💼 LinkedIn: [linkedin.com/in/lakwan-a-92ab4a356/](https://linkedin.com/in/lakwan-a-92ab4a356/)  
+- 🐙 GitHub: [github.com/superMiracle](https://github.com/superMiracle)  
 
 ---
 
