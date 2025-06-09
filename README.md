@@ -1,32 +1,66 @@
-👋 Hey there, I'm Lakwan Anderson
-🎯 Senior Front-End Engineer | Web Performance Enthusiast | UI/UX Advocate
+# 👋 Hi, I'm Lakwan Anderson
 
-With over a decade of experience, I build responsive, performant, and accessible front-end systems that power digital products across healthcare, e-commerce, SaaS, and financial services. I specialize in React.js, Next.js, and TypeScript, blending strong UX sensibility with scalable front-end architecture.
+**🎯 Senior Front-End Engineer**  
+Building performant, accessible, and scalable digital experiences across healthcare, e-commerce, SaaS, and fintech.
 
-💻 Tech I Work With
-Frameworks & Libraries: React.js, Next.js, React Native, Vue.js, TypeScript, Redux, Tailwind CSS
+---
 
-Tooling & Infra: Docker, Firebase, AWS, GCP, Azure, Contentful, Git, Sentry
+## 🧠 About Me
 
-Testing & Quality: Cypress, Jest, RTL, CI/CD pipelines
+- 💻 10+ years in web development with expertise in **React.js, Next.js, TypeScript**, and modern front-end tooling
+- 🚀 Passionate about building responsive UIs, scalable architectures, and inclusive experiences
+- 🎨 Strong focus on **UI/UX**, accessibility (WCAG), and design systems
+- 🌎 Based in **Pensacola, FL**
 
-UI/UX: Accessibility (WCAG), Responsive Design, Design Systems
+---
 
-API & Data: GraphQL, REST APIs, WebSockets, React Query
+## 🛠️ Tech Stack
 
-🚀 What I'm Proud Of
-Truepill: Led front-end for a Virtual Pharmacy platform with real-time prescription tracking and CMS-driven content delivery.
+**Languages & Frameworks**  
+`JavaScript (ES6+)`, `TypeScript`, `React.js`, `Next.js`, `Vue.js`, `React Native`
 
-Walmart: Built scalable e-commerce experiences that improved mobile conversion by 15%.
+**Styling & UI**  
+`Tailwind CSS`, `Material UI`, `Bootstrap`, `SASS`, `Styled Components`
 
-Fair Technologies: Developed a full-featured SaaS toolkit with real-time dashboards and reusable components.
+**State & Architecture**  
+`Redux`, `Recoil`, `Zustand`, `Context API`
 
-Mentorship: Passionate about team collaboration, code quality, and mentoring junior developers.
+**Testing & Quality**  
+`Jest`, `Cypress`, `React Testing Library`, `Enzyme`
 
-🌱 What I'm Learning
-AI-enhanced user interfaces and ML-powered UX personalization
+**API & Data**  
+`GraphQL`, `REST`, `React Query`, `WebSocket`
 
-📫 Let's Connect
-🌐 andersonlakwan.xyz
+**Tooling & Infrastructure**  
+`Git`, `Docker`, `Firebase`, `AWS`, `GCP`, `Azure`, `Auth0`, `Contentful`
 
-📧 contact@andersonlakwan.xyz
+---
+
+## 🧩 Featured Work
+
+- **Truepill**: Built and scaled the Virtual Pharmacy platform with Next.js, GraphQL, and CMS integration  
+- **Walmart**: Developed responsive e-commerce flows; improved mobile conversion rates by 15%  
+- **Fair Technologies**: Created a real-time SaaS toolkit dashboard with rich data visualizations  
+- **DolarApp**: Shipped accessible features and streamlined onboarding with React Native
+
+---
+
+## 📈 Currently Exploring
+
+- Edge Functions & Serverless Infrastructure  
+- WebAssembly & performance optimization
+- AI-enhanced user interfaces and ML-powered UX personalization
+
+---
+
+## 📬 Get in Touch
+
+- 🌐 Website: [andersonlakwan.xyz](https://andersonlakwan.xyz)  
+- 📧 Email: [contact@andersonlakwan.xyz](mailto:contact@andersonlakwan.xyz)  
+- 🧑‍💼 LinkedIn: [linkedin.com/in/YOUR-LINK](https://linkedin.com/in/lakwan-a-92ab4a356/)  
+- 🐙 GitHub: [github.com/YOUR-USERNAME](https://github.com/superMiracle)  
+
+---
+
+> _“Code is poetry in motion when it’s written with clarity and purpose.”_
+
